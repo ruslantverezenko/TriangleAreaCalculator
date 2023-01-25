@@ -1,0 +1,7 @@
+C:\Users\Q\source\repos\CalculatorTriangleArea\CalculatorTriangleArea\bin\Debug\CalculatorTriangleArea.exe.config
+C:\Users\Q\source\repos\CalculatorTriangleArea\CalculatorTriangleArea\bin\Debug\CalculatorTriangleArea.exe
+C:\Users\Q\source\repos\CalculatorTriangleArea\CalculatorTriangleArea\bin\Debug\CalculatorTriangleArea.pdb
+C:\Users\Q\source\repos\CalculatorTriangleArea\CalculatorTriangleArea\obj\Debug\CalculatorTriangleArea.csprojAssemblyReference.cache
+C:\Users\Q\source\repos\CalculatorTriangleArea\CalculatorTriangleArea\obj\Debug\CalculatorTriangleArea.csproj.CoreCompileInputs.cache
+C:\Users\Q\source\repos\CalculatorTriangleArea\CalculatorTriangleArea\obj\Debug\CalculatorTriangleArea.exe
+C:\Users\Q\source\repos\CalculatorTriangleArea\CalculatorTriangleArea\obj\Debug\CalculatorTriangleArea.pdb
